@@ -1,0 +1,84 @@
+body #principal article section p.coordenadores{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+
+.principal{
+    border: 2px solid #ccc;
+    width: 80%;
+    margin: auto;
+    padding-left: 50px;
+}
+
+#principal p.promocao{
+    padding: 12px;
+    border-bottom:red 1px solid;
+}
+
+section p{
+    color:purple;
+}
+
+article p{
+    padding: 12px;
+}
+
+.curso, .novo-curso,#contato{
+    background-color:aliceblue;
+}
+.novo-curso{
+    color: red;
+}
+
+/*.curso{
+    background-color: aliceblue;
+}
+
+.novo-curso{
+    background-color: aliceblue;
+    color: red;
+}*/
+
+p.final-pagina#rodape{
+    border-bottom: 1px solid black;
+    background: grey;
+    padding: 12px;
+    text-align: center;
+}
+
+.promocao{
+    text-align: center;
+    background: yellow;
+    
+
+}
+#titulo {
+    text-align: center;
+    border-bottom: 1px dashed black;
+    color: blueviolet;
+    background-color: salmon;
+}
+.nova{
+    color: red;
+
+}
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+p#descricao{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    border: solid 1px black;
+}
+
+strong{
+    color: blueviolet;
+    background-color: orange;
+}
